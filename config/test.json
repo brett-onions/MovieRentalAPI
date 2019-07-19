@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "jwtPrivateKey",
+    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZDJlYzc1YTM2MTc0ZTRjZDBhMzYzYjIiLCJuYW1lIjoiQnJldHQgTGFycnkgT25pb25zIiwiZW1haWwiOiJibG9uaW9uc0BtYWlsLmNvbSIsImlzQWRtaW4iOmZhbHNlLCJpYXQiOjE1NjMzNDY3Nzh9.khmQGtw2L8u5PH6YP17qwmGtqqyZfnVEIEWAKGkh9dI",
+    "db": "mongodb://localhost/movierentals_tests"
+}

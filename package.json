@@ -1,0 +1,37 @@
+{
+  "name": "movierentalapi",
+  "version": "1.0.0",
+  "description": "Simple Movie Rental API Backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "10.16.0"
+  },
+  "author": "Brett Onions",
+  "license": "",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "nodemon": "^1.19.1",
+    "supertest": "^4.0.2"
+  },
+  "dependencies": {
+    "@hapi/joi": "^15.1.0",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "config": "^3.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "helmet": "^3.18.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.14",
+    "moment": "^2.24.0",
+    "mongoose": "^5.6.4",
+    "morgan": "^1.9.1",
+    "winston": "^3.2.1"
+  }
+}

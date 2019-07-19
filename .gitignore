@@ -86,3 +86,7 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+#other Mac Specific Files
+coverage/
+.ds_store
